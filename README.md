@@ -45,6 +45,8 @@ Example:
     "DATABASE_CONNECTION_STRING": "<YOUR_COSMOS_DB_CONNECTION_STRING>"
   }
 }
+
+ ```
  
   - Replace <YOUR_COSMOS_DB_CONNECTION_STRING> with the Primary Connection String from your Azure Cosmos DB account.
 
